@@ -1,6 +1,13 @@
 # imdb
 
-A new Flutter project.
+3.	Imdb : cette application est un outil de recherche des films ou bien de séries populaire et prendre quelques idées comme :
+•	Le nom de film ou bien série.
+•	Image de l’élément demandé .
+•	Date de création.
+•	Genre.
+•	Description
+L’application Imdb utilise un Api Rest fournie gratuitement de site web  www.Imdb.com.
+
 
 ## Getting Started
 
