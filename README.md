@@ -1,6 +1,6 @@
 # imdb
 
-3.	Imdb : cette application est un outil de recherche des films ou bien de séries populaire et prendre quelques idées comme :
+Imdb : cette application est un outil de recherche des films ou bien de séries populaire et prendre quelques idées comme :
 •	Le nom de film ou bien série.
 •	Image de l’élément demandé .
 •	Date de création.
